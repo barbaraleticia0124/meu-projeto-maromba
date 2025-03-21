@@ -1,0 +1,24 @@
+body{
+    background-color: #FBC0D4;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding: 0 24px;
+ }
+
+ .titulo-principal{
+    color: black;
+}
+.linha{
+    color: black;;
+}
+.texto-dois{
+    color: black;
+    text-align: justify;
+}
+.texto-tres{
+    color: black;
+}
+.texto-quatro{
+    color: black;
+}
